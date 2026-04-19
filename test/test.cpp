@@ -111,7 +111,6 @@ void delMid(int pos)
 int main()
 {
 
-    insBeg(1);
     insBeg(2);
     display();
     insEnd(3);
